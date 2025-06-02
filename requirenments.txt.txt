@@ -1,0 +1,10 @@
+python3 -m venv venv
+source venv/bin/activate
+
+- Python 3.8+
+- `iptables` (Pre-installed on most Linux distros)
+- `sudo` privileges
+- Required Python packages:
+  - `streamlit`
+  - `pandas`
+  - `plotly`
